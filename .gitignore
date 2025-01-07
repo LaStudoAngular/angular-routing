@@ -347,4 +347,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+.angular/
+
 # End of https://www.toptal.com/developers/gitignore/api/linux,windows,macos,node,visualstudiocode,webstorm
